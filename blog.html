@@ -1,0 +1,25 @@
+---
+layout: default
+title: "Lakhan Samani's Blog"
+---
+
+<div class="home">
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <div class="">
+      <li>
+        
+        <h4>
+          {{ post.title }}  <span class="post-meta">, {{ post.date | date: "%b %-d, %Y" }}</span>
+
+        </h4>
+        <p>
+        {{post.content}}
+        </p>
+      </li>
+      </div>
+    {% endfor %}
+  </ul>
+
+</div>
