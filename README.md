@@ -1,9 +1,10 @@
-# MahdiZandi.github.io
+# Mahdi Zandi
 
 Professional Summary
 Experienced and passionate scientist with PhD degree in Computer Science. Skilled in design and development of web, several languages programing and data analysis. Possess soft skills including good communication, self-motivation, initiative, problem solving and project management skills. Detail- oriented individual who works well in a team or independently with a propensity to learn
 
 Qualification Summary
+
 Technical skills
 • Python
 • Django Framework & Django Rest Framework
